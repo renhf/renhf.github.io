@@ -1,0 +1,23 @@
+.top,.middle,p,.pic{
+    width: 95%;
+    margin-left: 2.5%;
+    height: 25%;
+    border: solid 1px #ccc;
+    border-bottom: none;
+    line-height: 2.5rem;
+   
+}
+.img{
+    width: 2rem;
+    height: 3rem;
+    background: #ccc;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 3rem;
+    margin:1rem;
+}
+#vcity{
+    display: none;
+}
